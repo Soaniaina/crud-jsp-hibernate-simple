@@ -36,7 +36,7 @@
                     </c:if>
                     <div class="form-group mb-3">
                         <label for="firstname">Firstname : </label>
-                        <input type="text" name="firstname" id="firstname" value="${student.firstname}" class="form-control" placeholder="Enter your firstname ... " autocomplete="off" required>
+                        <input type="text" name="firstname" id="firstname" value="${student.firstname}" class="form-control" placeholder="Enter your firstname please ... " autocomplete="off" required>
                     </div>
                     <div class="form-group mb-3">
                         <label for="lastname">Lastname : </label>
